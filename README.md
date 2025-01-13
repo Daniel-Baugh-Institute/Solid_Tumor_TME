@@ -1,5 +1,5 @@
 ### Solid_Tumor_TME
-This repository contains the necessary MATLAB and SIMULINK files for the simulation studies done in the manuscript titled, 'From tumor microenvironment to immuno-therapeutic outcomes for solid tumors: A systems theoretic approach' (bioArxiv link https://www.biorxiv.org/content/10.1101/2024.09.26.615155v1)
+This repository contains the necessary MATLAB files for the simulation studies done in the manuscript titled, 'From tumor microenvironment to immuno-therapeutic outcomes for solid tumors: A systems theoretic approach' (bioArxiv link https://www.biorxiv.org/content/10.1101/2024.09.26.615155v1)
 
 ### Folder Organisation
 The folder 'Figure 2' contains the MATLAB files required to replicate Figure panel 2 of the main manuscript.
